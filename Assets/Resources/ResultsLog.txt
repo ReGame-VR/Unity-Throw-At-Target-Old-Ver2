@@ -2318,3 +2318,122 @@ Reset for next throw.
 Ball(Clone) missed HoopTarget by 1.025372.
 Reset for next throw.
 Ball(Clone) missed HoopTarget by 1.198887.
+
+Test: 10/22/2019 1:35:18 PM
+
+Test: 10/22/2019 1:36:37 PM
+
+Test: 10/22/2019 1:36:54 PM
+
+Test: 10/22/2019 1:37:13 PM
+
+Test: 10/22/2019 1:37:26 PM
+
+Test: 10/22/2019 1:37:32 PM
+
+Test: 10/22/2019 2:50:38 PM
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.7849379.
+
+Test: 10/22/2019 2:50:53 PM
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.1967184.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.4177375.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.7910578.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.343383.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 2.232641.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 1.113462.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 5.999399.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 4.279504.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 3.582594.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 4.061081.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.3988902.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 10/22/2019 2:52:51 PM
+Ball(Clone) missed HoopTarget by 1.840208.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.092064.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.14819.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.008589.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.441517.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.149126.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 2.421583.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 5.368438.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.851172.
+Reset for next throw.
+
+Test: 10/22/2019 2:54:42 PM
+
+Test: 10/22/2019 2:55:06 PM
+Reset for next throw.
+
+Test: 10/22/2019 2:57:38 PM
