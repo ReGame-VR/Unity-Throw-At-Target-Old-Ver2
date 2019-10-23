@@ -10,6 +10,7 @@ public class MenuController : MonoBehaviour
 {
     public TextMeshProUGUI text;
     public Toggle rightHandToggle;
+    public TMP_Dropdown chooseMode;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,13 +24,23 @@ public class MenuController : MonoBehaviour
         
     }
 
-    public void ChangeText()
+    GlobalControl.ProgressionType ProgressionConvert(int value)
     {
-        text.text = "Success!";
+        if (value == 0) {
+            return GlobalControl.ProgressionType.Performance;
+        }
+        if (value == 1) {
+            return GlobalControl.ProgressionType.Random;
+        }
+        else { 
+            return GlobalControl.ProgressionType.Choice;
+        }
     }
 
+    // Progresses to next scene, setting values in GlobalControl
     public void NextScene()
     {
+        GlobalControl.Instance.progression = ProgressionConvert(chooseMode.value);
         GlobalControl.Instance.isRightHanded = rightHandToggle.enabled;
         SceneManager.LoadScene("Calibration");
     }

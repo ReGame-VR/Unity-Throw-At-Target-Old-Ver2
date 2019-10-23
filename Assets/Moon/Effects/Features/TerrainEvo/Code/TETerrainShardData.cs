@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEditor;
 using System.Collections.Generic;
 
 // NOTE: Texture/RenderTexture format support in Unity is awful! Even worse when you need to copy/read data. TODO: FIX IT (actually, try to convince someone else to fix it).
@@ -109,7 +110,7 @@ public class TETerrainShardData : ScriptableObject/*, ISerializationCallbackRece
 		colorData.filterMode = FilterMode.Trilinear;
 		colorData.Apply(true, false);
 #if UNITY_EDITOR
-		UnityEditor.EditorUtility.CompressTexture(colorData, TextureFormat.DXT1, TextureCompressionQuality.Fast);
+		UnityEditor.EditorUtility.CompressTexture(colorData, TextureFormat.DXT1, UnityEditor.TextureCompressionQuality.Fast);
 #endif
 
 #if UNITY_EDITOR
