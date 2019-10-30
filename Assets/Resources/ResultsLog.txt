@@ -2540,3 +2540,31 @@ Reset for next throw.
 
 Test: 10/29/2019 3:55:03 PM
 Asteroid successfully hit Target.
+
+Test: 10/30/2019 11:31:49 AM
+Asteroid missed Target by 0.2891521.
+Reset for next throw.
+Asteroid missed Target by 0.4620658.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.3302996.
+Reset for next throw.
+Asteroid missed Target by 0.7257595.
+Reset for next throw.
+Asteroid missed Target by 0.3062453.
+Reset for next throw.
+Asteroid missed Target by 0.4793024.
+Reset for next throw.
+Asteroid missed Target by 2.025521.
+Reset for next throw.
+Asteroid missed Target by 0.41534.
+Reset for next throw.
+Asteroid missed Target by 0.9375886.
+Reset for next throw.
+Asteroid missed Target by 0.3250392.
+Reset for next throw.
+Asteroid missed Target by 0.4714391.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
