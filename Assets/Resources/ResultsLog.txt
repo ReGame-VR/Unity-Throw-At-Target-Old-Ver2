@@ -2568,3 +2568,342 @@ Asteroid missed Target by 0.4714391.
 Reset for next throw.
 Asteroid successfully hit Target.
 Reset for next throw.
+
+Test: 10/30/2019 2:27:00 PM
+Asteroid missed Target by 0.6088444.
+Reset for next throw.
+Asteroid missed Target by 0.2974027.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.6957871.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.7734879.
+Reset for next throw.
+Asteroid missed Target by 0.8579138.
+Reset for next throw.
+Reset for next throw.
+
+Test: 10/30/2019 2:30:23 PM
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 4.265259.
+Reset for next throw.
+Asteroid missed Target by 0.5913473.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 1.005156.
+Reset for next throw.
+Asteroid missed Target by 0.7796323.
+Reset for next throw.
+Asteroid missed Target by 0.6317004.
+Reset for next throw.
+Asteroid missed Target by 0.5248702.
+Reset for next throw.
+Asteroid missed Target by 0.7412145.
+Reset for next throw.
+Asteroid missed Target by 0.5573588.
+Reset for next throw.
+Asteroid missed Target by 0.5908485.
+Reset for next throw.
+Asteroid successfully hit Target.
+
+Test: 10/31/2019 10:00:29 AM
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 1.046918.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.4950622.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.9378081.
+Reset for next throw.
+Asteroid missed Target by 2.254884.
+Reset for next throw.
+Asteroid missed Target by 1.485153.
+Reset for next throw.
+Asteroid missed Target by 1.747049.
+Reset for next throw.
+Asteroid missed Target by 0.935634.
+Reset for next throw.
+Asteroid missed Target by 1.911545.
+Reset for next throw.
+Asteroid missed Target by 1.975066.
+Reset for next throw.
+Asteroid missed Target by 0.945738.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Asteroid missed Target by 0.7535478.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 9.149199.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 8.880891.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 22.11822.
+Reset for next throw.
+Asteroid missed Target by 26.95519.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 0.48409.
+Reset for next throw.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Reset for next throw.
+Asteroid successfully hit Target.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 2.092922.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed Target by 25.69319.
+Reset for next throw.
+Asteroid missed Target by 9.075649.
+Reset for next throw.
+Asteroid missed Target by 5.323786.
+Reset for next throw.
+Asteroid missed Target by 13.75124.
+Reset for next throw.
+
+Test: 10/31/2019 11:18:53 AM
+TestProjectile(Clone) missed TestTarget by 0.3231889.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.2579755.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.9097064.
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+
+Test: 10/31/2019 11:19:34 AM
+ThrownNotebook(Clone) missed TrashTarget by 0.3481551.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.2456079.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.4810252.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.6938936.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 10/31/2019 11:20:02 AM
+Ball(Clone) missed HoopTarget by 1.305141.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 10/31/2019 11:20:50 AM
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 1.050512.
+
+Test: 10/31/2019 11:21:06 AM
+
+Test: 10/31/2019 11:21:12 AM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 10/31/2019 11:21:35 AM
+Reset for next throw.
+Reset for next throw.
+
+Test: 10/31/2019 11:23:59 AM
+TestProjectile(Clone) missed TestTarget by 0.3184807.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.6070476.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.2180855.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 1.226716.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.4049633.
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+
+Test: 10/31/2019 11:24:32 AM
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 10/31/2019 11:24:41 AM
+Ball(Clone) missed HoopTarget by 1.333532.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.17636.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 10/31/2019 11:25:04 AM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Asteroid missed CaseTarget by 2.985852.
+Reset for next throw.
+
+Test: 10/31/2019 11:32:05 AM
+
+Test: 10/31/2019 11:32:21 AM
+TestProjectile(Clone) successfully hit TestTarget.
+
+Test: 10/31/2019 11:32:47 AM
+ThrownNotebook(Clone) missed TrashTarget by 0.925056.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.3111404.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 10/31/2019 11:32:58 AM
+Ball(Clone) missed HoopTarget by 1.589837.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 10/31/2019 11:33:24 AM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+
+Test: 10/31/2019 2:10:34 PM
+Asteroid successfully hit CaseTarget.
+Reset for next throw.
+Reset for next throw.
+
+Test: 10/31/2019 2:11:53 PM
+Asteroid successfully hit CaseTarget.
+Reset for next throw.
+Asteroid missed CaseTarget by 1.406376.
+Reset for next throw.
+Asteroid successfully hit CaseTarget.
+Reset for next throw.
+Asteroid missed CaseTarget by 0.5358523.
+Reset for next throw.
+Asteroid missed CaseTarget by 0.4136822.
+Reset for next throw.
+Asteroid successfully hit CaseTarget.
+Reset for next throw.
+Asteroid successfully hit CaseTarget.
+
+Test: 10/31/2019 4:02:39 PM
+TestProjectile(Clone) missed TestTarget by 1.511356.
+TestProjectile(Clone) missed TestTarget by 0.3463928.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+TestProjectile(Clone) missed TestTarget by 0.526068.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.2964667.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 1.78825.
+TestProjectile(Clone) successfully hit TestTarget.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.078902.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.133617.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.960845.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.396841.
+
+Test: 10/31/2019 4:03:30 PM
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 10/31/2019 4:03:50 PM
+Ball(Clone) missed HoopTarget by 1.045514.
+
+Test: 10/31/2019 4:03:57 PM
+Asteroid missed CaseTarget by 0.4051523.
+Reset for next throw.
+Asteroid successfully hit CaseTarget.
+Reset for next throw.
+Asteroid successfully hit CaseTarget.
+Reset for next throw.

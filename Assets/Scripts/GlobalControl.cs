@@ -17,7 +17,7 @@ public class GlobalControl : MonoBehaviour
     public string participantID;
 
     // enum type(and instance) to differentiate different progression 
-    public enum ProgressionType {Performance, Random, Choice}; //NumThrows ??
+    public enum ProgressionType {Performance, Random, Choice}; // NumThrows ??
     public ProgressionType progression;
 
     // Single instance of this class
