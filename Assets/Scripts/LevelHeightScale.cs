@@ -52,7 +52,10 @@ public class LevelHeightScale : MonoBehaviour
         }
         AdjustPlatform();
         AdjustTarget();
-        SpawnProjectile();
+        if (!scene.name.Equals("Calibration"))
+        {
+            SpawnProjectile();
+        }
         nextSceneIndex = scene.buildIndex + 1;
     }
 
@@ -91,7 +94,8 @@ public class LevelHeightScale : MonoBehaviour
         Debug.Log("Spawning " + projectilePrefab.name);
         // Spawns projectile based on provided prefab, updates corresponding arrays for projectiles, their positions, and their rotations
         projectileInstance = (GameObject)Instantiate(projectilePrefab, new Vector3(platform.transform.position.x, 
-            platform.transform.localScale.y + projectilePrefab.transform.localScale.y, platform.transform.position.z), Quaternion.identity);
+            platform.transform.position.y + platform.transform.localScale.y, 
+            platform.transform.position.z), Quaternion.identity);
         GameObject[] newProjectiles = new GameObject[projectileManager.GetComponent<ProjectileManager>().projectiles.Length + 1];
         int i;
         for (i = 0; i < projectileManager.GetComponent<ProjectileManager>().projectiles.Length; i++)

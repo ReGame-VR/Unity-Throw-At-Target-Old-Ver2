@@ -2907,3 +2907,176 @@ Asteroid successfully hit CaseTarget.
 Reset for next throw.
 Asteroid successfully hit CaseTarget.
 Reset for next throw.
+
+Test: 11/1/2019 2:19:12 PM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+
+Test: 11/1/2019 3:39:40 PM
+TestProjectile(Clone) missed TestTarget by 2.242441.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.062278.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.072581.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.046793.
+Reset for next throw.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.2990599.
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+
+Test: 11/1/2019 3:40:08 PM
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 11/1/2019 3:40:21 PM
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.19361.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 11/1/2019 3:40:30 PM
+Reset for next throw.
+
+Test: 11/1/2019 3:46:04 PM
+TestProjectile(Clone) missed TestTarget by 2.327986.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 2.521261.
+TestProjectile(Clone) missed TestTarget by 0.9464957.
+Reset for next throw.
+
+Test: 11/1/2019 3:47:48 PM
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+
+Test: 11/1/2019 3:48:03 PM
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+
+Test: 11/1/2019 3:48:14 PM
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.366297.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 11/1/2019 3:48:28 PM
+Reset for next throw.
+
+Test: 11/1/2019 3:51:55 PM
+TestProjectile(Clone) missed TestTarget by 0.557303.
+Reset for next throw.
+
+Test: 11/1/2019 3:52:18 PM
+Reset for next throw.
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 2.717331.
+
+Test: 11/1/2019 3:52:31 PM
+Ball(Clone) missed HoopTarget by 1.195467.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+
+Test: 11/1/2019 3:52:41 PM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+
+Test: 11/1/2019 4:08:47 PM
+Reset for next throw.
+TestProjectile(Clone) successfully hit TestTarget.
+Reset for next throw.
+
+Test: 11/1/2019 4:08:58 PM
+ThrownNotebook(Clone) missed TrashTarget by 0.5030637.
+Reset for next throw.
+ThrownNotebook(Clone) missed TrashTarget by 0.2516887.
+
+Test: 11/1/2019 4:09:08 PM
+Ball(Clone) missed HoopTarget by 1.233672.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 1.352126.
+Reset for next throw.
+
+Test: 11/1/2019 4:09:16 PM
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 1.589134.
+
+Test: 11/1/2019 4:10:43 PM
+TestProjectile(Clone) missed TestTarget by 0.2449049.
+Reset for next throw.
+TestProjectile(Clone) missed TestTarget by 0.4437047.
+
+Test: 11/1/2019 4:10:56 PM
+ThrownNotebook(Clone) successfully hit TrashTarget.
+Reset for next throw.
+
+Test: 11/1/2019 4:11:03 PM
+Reset for next throw.
+Reset for next throw.
+
+Test: 11/1/2019 4:11:09 PM
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 0.7450351.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 0.5269111.
+Reset for next throw.
+Asteroid(Clone) missed CaseTarget by 0.6226074.
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
+Reset for next throw.
