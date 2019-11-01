@@ -3080,3 +3080,26 @@ Asteroid(Clone) missed CaseTarget by 0.6226074.
 Reset for next throw.
 Asteroid(Clone) successfully hit CaseTarget.
 Reset for next throw.
+
+Test: 11/1/2019 4:22:45 PM
+TestProjectile(Clone) missed TestTarget by 0.7125732.
+
+Test: 11/1/2019 4:22:59 PM
+
+Test: 11/1/2019 4:23:07 PM
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) missed HoopTarget by 2.541249.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Reset for next throw.
+Ball(Clone) successfully hit HoopTarget.
+Reset for next throw.
+
+Test: 11/1/2019 4:23:39 PM
+Reset for next throw.
+Asteroid(Clone) successfully hit CaseTarget.
